@@ -1,4 +1,4 @@
-('D:\\Automation Software\\build\\UDISE_New_Student_Filler\\PYZ-00.pyz',
+('D:\\UDISE+ New Student Filler\\build\\UDISE_New_Student_Filler\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\sarth\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__future__.py',
    'PYMODULE'),
@@ -151,12 +151,12 @@
    'PYMODULE'),
   ('browser', '-', 'PYMODULE'),
   ('browser.browser_controller',
-   'D:\\Automation '
-   'Software\\udise_new_student_filler\\browser\\browser_controller.py',
+   'D:\\UDISE+ New Student '
+   'Filler\\udise_new_student_filler\\browser\\browser_controller.py',
    'PYMODULE'),
   ('browser.udise_automation',
-   'D:\\Automation '
-   'Software\\udise_new_student_filler\\browser\\udise_automation.py',
+   'D:\\UDISE+ New Student '
+   'Filler\\udise_new_student_filler\\browser\\udise_automation.py',
    'PYMODULE'),
   ('bz2',
    'C:\\Users\\sarth\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\bz2.py',
@@ -493,7 +493,8 @@
    'PYMODULE'),
   ('gui', '-', 'PYMODULE'),
   ('gui.main_window',
-   'D:\\Automation Software\\udise_new_student_filler\\gui\\main_window.py',
+   'D:\\UDISE+ New Student '
+   'Filler\\udise_new_student_filler\\gui\\main_window.py',
    'PYMODULE'),
   ('gzip',
    'C:\\Users\\sarth\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\gzip.py',
@@ -608,7 +609,8 @@
    'PYMODULE'),
   ('models', '-', 'PYMODULE'),
   ('models.new_student',
-   'D:\\Automation Software\\udise_new_student_filler\\models\\new_student.py',
+   'D:\\UDISE+ New Student '
+   'Filler\\udise_new_student_filler\\models\\new_student.py',
    'PYMODULE'),
   ('multiprocessing',
    'C:\\Users\\sarth\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\__init__.py',
@@ -930,7 +932,8 @@
    'PYMODULE'),
   ('storage', '-', 'PYMODULE'),
   ('storage.json_loader',
-   'D:\\Automation Software\\udise_new_student_filler\\storage\\json_loader.py',
+   'D:\\UDISE+ New Student '
+   'Filler\\udise_new_student_filler\\storage\\json_loader.py',
    'PYMODULE'),
   ('string',
    'C:\\Users\\sarth\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\string\\__init__.py',
@@ -1015,7 +1018,7 @@
    'PYMODULE'),
   ('utils', '-', 'PYMODULE'),
   ('utils.logger',
-   'D:\\Automation Software\\udise_new_student_filler\\utils\\logger.py',
+   'D:\\UDISE+ New Student Filler\\udise_new_student_filler\\utils\\logger.py',
    'PYMODULE'),
   ('uuid',
    'C:\\Users\\sarth\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\uuid.py',
